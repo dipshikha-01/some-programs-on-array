@@ -7,9 +7,9 @@
 
 ## Program
 <br>
-C
+C programming
 <br>
-
+<br>
 TO COMPILE : gcc count odd.c
 <br>
 TO RUN : ./a.exe
